@@ -1,1 +1,0 @@
-# automated_scoring_system
